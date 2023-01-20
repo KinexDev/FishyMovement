@@ -1,4 +1,4 @@
-# FishGameMovement
+# FishyMovement
 Movement inspired by the game "Fish Game" on applab
 
 How the Movement works
