@@ -5,3 +5,4 @@ How the Movement works
 It get's the velocity magnitude of the controller
 And then adds force to the rigidbody on the player with the velocity
 When the velocity reaches the speedhands speed.
+I think this is personally pretty cool for being made in a couple of minutes
